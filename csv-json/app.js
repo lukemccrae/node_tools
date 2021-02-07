@@ -12,17 +12,13 @@ fs.readdir(testFolder, (err, files) => {
         csv()
         .fromFile(csvFilePath)
         .then((jsonObj)=>{
-            jsonBudgets.push(jsonObj);
-            
 
-            /**˜
-             * [
-             * 	{a:"1", b:"2", c:"3"},
-             * 	{a:"4", b:"5". c:"6"}
-             * ]
-             */ 
+            //add json to the jsonBudgets array
+            jsonBudgets.push(jsonObj);
         }).then(()=>{
-            console.log(jsonBudgets.length)
+            console.log(jsonBudgets.length);
+
+            //write code to compile budget data into one json
         })
     });
   });
