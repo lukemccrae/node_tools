@@ -24,8 +24,8 @@ const newObject = {
 };
 
 
-function jsonWriter(filepath, jsonObject) {
-    const jsonString = JSON.stringify(jsonObject,null, 2);
+function jsonWriter(filepath, jsObject) {
+    const jsonString = JSON.stringify(jsObject,null, 2);
 
     fs.writeFile(filepath, jsonString, err => {
         if(err) {
