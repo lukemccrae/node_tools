@@ -37,7 +37,7 @@ function jsonWriter(filepath, jsObject) {
 }
 
 //get the json
-jsonReader('map.json', (err, data) => {
+jsonReader('source.json', (err, data) => {
     if(err) {
         console.log(err);
     } else {
