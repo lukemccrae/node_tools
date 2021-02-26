@@ -1,0 +1,1615 @@
+{
+    "April2020": [
+        {
+            "Rent": 750
+        },
+        {
+            "Bills": 1160
+        },
+        {
+            "Food": 284
+        },
+        {
+            "Home": 76
+        },
+        {
+            "Gas": 40
+        },
+        {
+            "Give": 5
+        },
+        {
+            "Transport": 1
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Clothes": 1
+        },
+        {
+            "Eatout": 14
+        },
+        {
+            "Unexpected": 12
+        },
+        {
+            "Personal": 294
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 100
+        },
+        {
+            "coach": 75
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 231
+        },
+        {
+            "disney": 0
+        },
+        {
+            "car": 125
+        },
+        {
+            "debt": 300
+        },
+        {
+            "utilities": 54
+        }
+    ],
+    "April2019": [
+        {
+            "Rent": 0
+        },
+        {
+            "Bills": 1262
+        },
+        {
+            "Food": 250
+        },
+        {
+            "Home": 47
+        },
+        {
+            "Gas": 137
+        },
+        {
+            "Give": 20
+        },
+        {
+            "Transport": 20
+        },
+        {
+            "Dates": 38
+        },
+        {
+            "Coffee": 6
+        },
+        {
+            "Eatout": 12
+        },
+        {
+            "Unexpected": 110
+        },
+        {
+            "Personal": 318
+        },
+        {
+            "spotify": 9
+        },
+        {
+            "chase": 18
+        },
+        {
+            "cap1": 734
+        },
+        {
+            "phone": 96
+        },
+        {
+            "gym": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 0
+        }
+    ],
+    "August2019": [
+        {
+            "Rent": 500
+        },
+        {
+            "Bills": 733
+        },
+        {
+            "Food": 288
+        },
+        {
+            "Home": 59
+        },
+        {
+            "Gas": 121
+        },
+        {
+            "Give": 34
+        },
+        {
+            "Transport": 52
+        },
+        {
+            "date": 60
+        },
+        {
+            "Coffee": 8
+        },
+        {
+            "Eatout": 49
+        },
+        {
+            "Unexpected": 250
+        },
+        {
+            "Personal": 451
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 29
+        },
+        {
+            "cap1": 201
+        },
+        {
+            "phone": 43
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 111
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        }
+    ],
+    "December2019": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 924
+        },
+        {
+            "Food": 309
+        },
+        {
+            "Home": 288
+        },
+        {
+            "Gas": 119
+        },
+        {
+            "Give": 25
+        },
+        {
+            "Transport": 205
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 10
+        },
+        {
+            "Eatout": 110
+        },
+        {
+            "Unexpected": 5
+        },
+        {
+            "Personal": 640
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 37
+        },
+        {
+            "cap1": 250
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 234
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 40
+        }
+    ],
+    "December2020": [
+        {
+            "Rent": 543
+        },
+        {
+            "Bills": 620
+        },
+        {
+            "Food": 451
+        },
+        {
+            "Home": 66
+        },
+        {
+            "Gas": 30
+        },
+        {
+            "Give": 92
+        },
+        {
+            "Transport": 150
+        },
+        {
+            "Dates": 1
+        },
+        {
+            "Coffee": 7
+        },
+        {
+            "Eatout": 58
+        },
+        {
+            "Unexpected": 1
+        },
+        {
+            "Personal": 317
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "Save": 0
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 208
+        },
+        {
+            "insurance": 159
+        },
+        {
+            "netflix": 9
+        },
+        {
+            "car": 125
+        },
+        {
+            "save": 0
+        },
+        {
+            "utilities": 55
+        }
+    ],
+    "February2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 830
+        },
+        {
+            "Food": 297
+        },
+        {
+            "Home": 91
+        },
+        {
+            "Gas": 20
+        },
+        {
+            "Give": 105
+        },
+        {
+            "Transport": 191
+        },
+        {
+            "Counselling": 30
+        },
+        {
+            "Coffee": 3
+        },
+        {
+            "Eatout": 12
+        },
+        {
+            "Unexpected": 480
+        },
+        {
+            "Personal": 239
+        },
+        {
+            "School": 70
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 35
+        },
+        {
+            "cap1": 149
+        },
+        {
+            "phone": 53
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 231
+        },
+        {
+            "wakingup": 15
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 56
+        }
+    ],
+    "January2019": [
+        {
+            "rent": 0
+        },
+        {
+            "bills": 580
+        },
+        {
+            "food": 290
+        },
+        {
+            "home": 315
+        },
+        {
+            "Gas": 151
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "Tattoo": 0
+        },
+        {
+            "counseling": 0
+        },
+        {
+            "coffee": 22
+        },
+        {
+            "eatout": 13
+        },
+        {
+            "Unexpected": 169
+        },
+        {
+            "Personal": 215
+        },
+        {
+            "cashapp": 1
+        }
+    ],
+    "February2019": [
+        {
+            "rent": 0
+        },
+        {
+            "bills": 711
+        },
+        {
+            "food": 194
+        },
+        {
+            "home": 49
+        },
+        {
+            "Gas": 189
+        },
+        {
+            "insurance": 120
+        },
+        {
+            "Tattoo": 0
+        },
+        {
+            "dates": 50
+        },
+        {
+            "coffee": 27
+        },
+        {
+            "eatout": 62
+        },
+        {
+            "Unexpected": 360
+        },
+        {
+            "Personal": 138
+        }
+    ],
+    "July2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 794
+        },
+        {
+            "Food": 275
+        },
+        {
+            "Home": 245
+        },
+        {
+            "Gas": 18
+        },
+        {
+            "Transport": 71
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 20
+        },
+        {
+            "Eatout": 73
+        },
+        {
+            "Unexpected": 1
+        },
+        {
+            "Personal": 159
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "coach": 150
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 208
+        },
+        {
+            "insurance": 193
+        },
+        {
+            "nyt": 4
+        },
+        {
+            "car": 125
+        },
+        {
+            "save": 0
+        },
+        {
+            "utilities": 50
+        }
+    ],
+    "July2019": [
+        {
+            "Rent": 264
+        },
+        {
+            "Bills": 846
+        },
+        {
+            "Food": 319
+        },
+        {
+            "Home": 31
+        },
+        {
+            "Gas": 48
+        },
+        {
+            "Give": 37
+        },
+        {
+            "Transport": 129
+        },
+        {
+            "Tattoo": 1
+        },
+        {
+            "Coffee": 10
+        },
+        {
+            "Eatout": 24
+        },
+        {
+            "Unexpected": 57
+        },
+        {
+            "Personal": 207
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 29
+        },
+        {
+            "cap1": 201
+        },
+        {
+            "phone": 96
+        },
+        {
+            "bladium": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 112
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "interest": 0
+        }
+    ],
+    "January2021": [
+        {
+            "Rent": 543
+        },
+        {
+            "Bills": 661
+        },
+        {
+            "Food": 291
+        },
+        {
+            "Home": 186
+        },
+        {
+            "Gas": 1
+        },
+        {
+            "Give": 42
+        },
+        {
+            "Transport": 140
+        },
+        {
+            "Tattoo": 1
+        },
+        {
+            "Coffee": 1
+        },
+        {
+            "Eatout": 44
+        },
+        {
+            "Unexpected": 1
+        },
+        {
+            "Personal": 92
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "Save": 0
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 208
+        },
+        {
+            "insurance": 199
+        },
+        {
+            "netflix": 0
+        },
+        {
+            "car": 125
+        },
+        {
+            "save": 0
+        },
+        {
+            "utilities": 65
+        }
+    ],
+    "January2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 860
+        },
+        {
+            "Food": 324
+        },
+        {
+            "Home": 572
+        },
+        {
+            "Gas": 35
+        },
+        {
+            "Give": 28
+        },
+        {
+            "Transport": 223
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 20
+        },
+        {
+            "Eatout": 67
+        },
+        {
+            "Unexpected": 234
+        },
+        {
+            "Personal": 317
+        },
+        {
+            "School": 518
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 72
+        },
+        {
+            "cap1": 153
+        },
+        {
+            "phone": 53
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 231
+        },
+        {
+            "wakingup": 15
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 64
+        }
+    ],
+    "June2019": [
+        {
+            "Rent": 400
+        },
+        {
+            "Bills": 616
+        },
+        {
+            "Food": 214
+        },
+        {
+            "Home": 66
+        },
+        {
+            "Gas": 115
+        },
+        {
+            "Give": 23
+        },
+        {
+            "Transport": 12
+        },
+        {
+            "Dates": 78
+        },
+        {
+            "Coffee": 1
+        },
+        {
+            "Eatout": 47
+        },
+        {
+            "Unexpected": 3
+        },
+        {
+            "Personal": 126
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "cap1": 0
+        },
+        {
+            "phone": 96
+        },
+        {
+            "bladium": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 112
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "interest": 0
+        }
+    ],
+    "June2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 768
+        },
+        {
+            "Food": 299
+        },
+        {
+            "Home": 316
+        },
+        {
+            "Gas": 145
+        },
+        {
+            "Give": 64
+        },
+        {
+            "Transport": 9
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 9
+        },
+        {
+            "Eatout": 28
+        },
+        {
+            "Unexpected": 1
+        },
+        {
+            "Personal": 73
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "coach": 150
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 208
+        },
+        {
+            "insurance": 159
+        },
+        {
+            "nyt": 4
+        },
+        {
+            "car": 125
+        },
+        {
+            "save": 0
+        },
+        {
+            "utilities": 58
+        }
+    ],
+    "March2019": [
+        {
+            "Rent": 100
+        },
+        {
+            "Bills": 900
+        },
+        {
+            "Food": 278
+        },
+        {
+            "Home": 73
+        },
+        {
+            "Gas": 136
+        },
+        {
+            "Give": 11
+        },
+        {
+            "Transport": 44
+        },
+        {
+            "Dates": 0
+        },
+        {
+            "Coffee": 7
+        },
+        {
+            "Eatout": 36
+        },
+        {
+            "Unexpected": 490
+        },
+        {
+            "Personal": 265
+        },
+        {
+            "amazon": 6
+        },
+        {
+            "spotify": 11
+        },
+        {
+            "chase": 31
+        },
+        {
+            "cap1": 243
+        },
+        {
+            "phone": 99
+        },
+        {
+            "gym": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "car": 125
+        }
+    ],
+    "May2019": [
+        {
+            "Rent": 0
+        },
+        {
+            "Bills": 1312
+        },
+        {
+            "Food": 388
+        },
+        {
+            "Home": 72
+        },
+        {
+            "Gas": 165
+        },
+        {
+            "Give": 48
+        },
+        {
+            "Transport": 38
+        },
+        {
+            "Dates": 256
+        },
+        {
+            "Coffee": 38
+        },
+        {
+            "Eatout": 49
+        },
+        {
+            "Unexpected": 59
+        },
+        {
+            "Personal": 221
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 180
+        },
+        {
+            "cap1": 216
+        },
+        {
+            "phone": 96
+        },
+        {
+            "gym": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "interest": 291
+        }
+    ],
+    "March2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 646
+        },
+        {
+            "Food": 308
+        },
+        {
+            "Home": 127
+        },
+        {
+            "Gas": 81
+        },
+        {
+            "Give": 31
+        },
+        {
+            "Transport": 100
+        },
+        {
+            "Counselling": 30
+        },
+        {
+            "Coffee": 2
+        },
+        {
+            "Eatout": 56
+        },
+        {
+            "Unexpected": 30
+        },
+        {
+            "Personal": 67
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "cap1": 0
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 231
+        },
+        {
+            "wakingup": 15
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 45
+        }
+    ],
+    "May2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 680
+        },
+        {
+            "Food": 286
+        },
+        {
+            "Home": 60
+        },
+        {
+            "Gas": 86
+        },
+        {
+            "Give": 1
+        },
+        {
+            "Transport": 1
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 1
+        },
+        {
+            "Eatout": 3
+        },
+        {
+            "Unexpected": 1
+        },
+        {
+            "Personal": 6
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 70
+        },
+        {
+            "coach": 150
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 0
+        },
+        {
+            "insurance": 231
+        },
+        {
+            "disney": 0
+        },
+        {
+            "car": 125
+        },
+        {
+            "debt": 0
+        },
+        {
+            "utilities": 40
+        }
+    ],
+    "November2019": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 1267
+        },
+        {
+            "Food": 360
+        },
+        {
+            "Home": 36
+        },
+        {
+            "Gas": 268
+        },
+        {
+            "Give": 50
+        },
+        {
+            "Transport": 11
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 16
+        },
+        {
+            "Eatout": 22
+        },
+        {
+            "Unexpected": 159
+        },
+        {
+            "Personal": 402
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 70
+        },
+        {
+            "cap1": 673
+        },
+        {
+            "phone": 64
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 111
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 40
+        }
+    ],
+    "November2020": [
+        {
+            "Rent": 543
+        },
+        {
+            "Bills": 652
+        },
+        {
+            "Food": 330
+        },
+        {
+            "Home": 134
+        },
+        {
+            "Gas": 1
+        },
+        {
+            "Give": 201
+        },
+        {
+            "Transport": 100
+        },
+        {
+            "Dates": 4
+        },
+        {
+            "Coffee": 4
+        },
+        {
+            "Eatout": 5
+        },
+        {
+            "Unexpected": 60
+        },
+        {
+            "Personal": 159
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "Save": 0
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 208
+        },
+        {
+            "insurance": 193
+        },
+        {
+            "netflix": 9
+        },
+        {
+            "car": 125
+        },
+        {
+            "save": 0
+        },
+        {
+            "utilities": 53
+        }
+    ],
+    "October2019": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 753
+        },
+        {
+            "Food": 334
+        },
+        {
+            "Home": 329
+        },
+        {
+            "Gas": 136
+        },
+        {
+            "Give": 15
+        },
+        {
+            "Transport": 23
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 1
+        },
+        {
+            "Eatout": 37
+        },
+        {
+            "Unexpected": 1
+        },
+        {
+            "Personal": 210
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 70
+        },
+        {
+            "cap1": 180
+        },
+        {
+            "phone": 43
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 111
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 45
+        }
+    ],
+    "October2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 644
+        },
+        {
+            "Food": 266
+        },
+        {
+            "Home": 182
+        },
+        {
+            "Gas": 97
+        },
+        {
+            "Give": 105
+        },
+        {
+            "Transport": 153
+        },
+        {
+            "Dates": 58
+        },
+        {
+            "Coffee": 15
+        },
+        {
+            "Eatout": 60
+        },
+        {
+            "Unexpected": 916
+        },
+        {
+            "Personal": 136
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "Piano": 0
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 208
+        },
+        {
+            "insurance": 193
+        },
+        {
+            "nyt": 4
+        },
+        {
+            "car": 125
+        },
+        {
+            "save": 0
+        },
+        {
+            "utilities": 50
+        }
+    ],
+    "September2019": [
+        {
+            "Rent": 500
+        },
+        {
+            "Bills": 739
+        },
+        {
+            "Food": 286
+        },
+        {
+            "Home": 293
+        },
+        {
+            "Gas": 196
+        },
+        {
+            "Give": 15
+        },
+        {
+            "Transport": 34
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 24
+        },
+        {
+            "Eatout": 45
+        },
+        {
+            "Unexpected": 119
+        },
+        {
+            "Personal": 132
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 35
+        },
+        {
+            "cap1": 201
+        },
+        {
+            "phone": 43
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 111
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 40
+        }
+    ],
+    "november2017": [
+        {
+            "rent": 285
+        },
+        {
+            "bills": 632
+        },
+        {
+            "food": 108
+        },
+        {
+            "home": 0
+        },
+        {
+            "Gas": 43
+        },
+        {
+            "Insurance": 70
+        },
+        {
+            "Tattoo": 0
+        },
+        {
+            "counseling": 0
+        },
+        {
+            "coffee": 11
+        },
+        {
+            "eatout": 33
+        },
+        {
+            "Unexpected": 82
+        },
+        {
+            "Personal": 335
+        }
+    ],
+    "September2020": [
+        {
+            "Rent": 530
+        },
+        {
+            "Bills": 644
+        },
+        {
+            "Food": 229
+        },
+        {
+            "Home": 160
+        },
+        {
+            "Gas": 1
+        },
+        {
+            "Give": 1
+        },
+        {
+            "Transport": 95
+        },
+        {
+            "Counselling": 1
+        },
+        {
+            "Coffee": 18
+        },
+        {
+            "Eatout": 16
+        },
+        {
+            "Unexpected": 1
+        },
+        {
+            "Personal": 24
+        },
+        {
+            "School": 1
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 0
+        },
+        {
+            "Piano": 0
+        },
+        {
+            "phone": 54
+        },
+        {
+            "mohela": 208
+        },
+        {
+            "insurance": 193
+        },
+        {
+            "nyt": 4
+        },
+        {
+            "car": 125
+        },
+        {
+            "save": 0
+        },
+        {
+            "utilities": 50
+        }
+    ]
+}
