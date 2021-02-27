@@ -25,6 +25,7 @@ calculateAverages('result.json', (err, data) => {
     } else {
         //check the new json
         console.log(data)
+        console.log("hi")
 
         //modify new json
         // let newJson = modifyJson(data);
