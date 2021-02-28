@@ -1,43 +1,108 @@
 {
+    "April2019": [
+        {
+            "rent": 0
+        },
+        {
+            "bills": 1262
+        },
+        {
+            "food": 250
+        },
+        {
+            "home": 47
+        },
+        {
+            "gas": 137
+        },
+        {
+            "give": 20
+        },
+        {
+            "transport": 20
+        },
+        {
+            "dates": 38
+        },
+        {
+            "coffee": 6
+        },
+        {
+            "eatout": 12
+        },
+        {
+            "unexpected": 110
+        },
+        {
+            "personal": 318
+        },
+        {
+            "spotify": 9
+        },
+        {
+            "chase": 18
+        },
+        {
+            "cap1": 734
+        },
+        {
+            "phone": 96
+        },
+        {
+            "gym": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 0
+        }
+    ],
     "April2020": [
         {
-            "Rent": 750
+            "rent": 750
         },
         {
-            "Bills": 1160
+            "bills": 1160
         },
         {
-            "Food": 284
+            "food": 284
         },
         {
-            "Home": 76
+            "home": 76
         },
         {
-            "Gas": 40
+            "gas": 40
         },
         {
-            "Give": 5
+            "give": 5
         },
         {
-            "Transport": 1
+            "transport": 1
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Clothes": 1
+            "clothes": 1
         },
         {
-            "Eatout": 14
+            "eatout": 14
         },
         {
-            "Unexpected": 12
+            "unexpected": 12
         },
         {
-            "Personal": 294
+            "personal": 294
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -70,107 +135,42 @@
             "utilities": 54
         }
     ],
-    "April2019": [
-        {
-            "Rent": 0
-        },
-        {
-            "Bills": 1262
-        },
-        {
-            "Food": 250
-        },
-        {
-            "Home": 47
-        },
-        {
-            "Gas": 137
-        },
-        {
-            "Give": 20
-        },
-        {
-            "Transport": 20
-        },
-        {
-            "Dates": 38
-        },
-        {
-            "Coffee": 6
-        },
-        {
-            "Eatout": 12
-        },
-        {
-            "Unexpected": 110
-        },
-        {
-            "Personal": 318
-        },
-        {
-            "spotify": 9
-        },
-        {
-            "chase": 18
-        },
-        {
-            "cap1": 734
-        },
-        {
-            "phone": 96
-        },
-        {
-            "gym": 59
-        },
-        {
-            "mohela": 211
-        },
-        {
-            "insurance": 121
-        },
-        {
-            "headspace": 13
-        },
-        {
-            "car": 0
-        }
-    ],
     "August2019": [
         {
-            "Rent": 500
+            "rent": 500
         },
         {
-            "Bills": 733
+            "bills": 733
         },
         {
-            "Food": 288
+            "food": 288
         },
         {
-            "Home": 59
+            "home": 59
         },
         {
-            "Gas": 121
+            "gas": 121
         },
         {
-            "Give": 34
+            "give": 34
         },
         {
-            "Transport": 52
+            "transport": 52
         },
         {
             "date": 60
         },
         {
-            "Coffee": 8
+            "coffee": 8
         },
         {
-            "Eatout": 49
+            "eatout": 49
         },
         {
-            "Unexpected": 250
+            "unexpected": 250
         },
         {
-            "Personal": 451
+            "personal": 451
         },
         {
             "spotify": 10
@@ -199,40 +199,40 @@
     ],
     "December2019": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 924
+            "bills": 924
         },
         {
-            "Food": 309
+            "food": 309
         },
         {
-            "Home": 288
+            "home": 288
         },
         {
-            "Gas": 119
+            "gas": 119
         },
         {
-            "Give": 25
+            "give": 25
         },
         {
-            "Transport": 205
+            "transport": 205
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Coffee": 10
+            "coffee": 10
         },
         {
-            "Eatout": 110
+            "eatout": 110
         },
         {
-            "Unexpected": 5
+            "unexpected": 5
         },
         {
-            "Personal": 640
+            "personal": 640
         },
         {
             "spotify": 10
@@ -264,43 +264,43 @@
     ],
     "December2020": [
         {
-            "Rent": 543
+            "rent": 543
         },
         {
-            "Bills": 620
+            "bills": 620
         },
         {
-            "Food": 451
+            "food": 451
         },
         {
-            "Home": 66
+            "home": 66
         },
         {
-            "Gas": 30
+            "gas": 30
         },
         {
-            "Give": 92
+            "give": 92
         },
         {
-            "Transport": 150
+            "transport": 150
         },
         {
-            "Dates": 1
+            "dates": 1
         },
         {
-            "Coffee": 7
+            "coffee": 7
         },
         {
-            "Eatout": 58
+            "eatout": 58
         },
         {
-            "Unexpected": 1
+            "unexpected": 1
         },
         {
-            "Personal": 317
+            "personal": 317
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -309,7 +309,7 @@
             "chase": 0
         },
         {
-            "Save": 0
+            "save": 0
         },
         {
             "phone": 54
@@ -333,45 +333,124 @@
             "utilities": 55
         }
     ],
+    "January2019": [
+        {
+            "rent": 0
+        },
+        {
+            "bills": 580
+        },
+        {
+            "food": 290
+        },
+        {
+            "home": 315
+        },
+        {
+            "gas": 151
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "tattoo": 0
+        },
+        {
+            "counseling": 0
+        },
+        {
+            "coffee": 22
+        },
+        {
+            "eatout": 13
+        },
+        {
+            "unexpected": 169
+        },
+        {
+            "personal": 215
+        },
+        {
+            "cashapp": 1
+        }
+    ],
+    "February2019": [
+        {
+            "rent": 0
+        },
+        {
+            "bills": 711
+        },
+        {
+            "food": 194
+        },
+        {
+            "home": 49
+        },
+        {
+            "gas": 189
+        },
+        {
+            "insurance": 120
+        },
+        {
+            "tattoo": 0
+        },
+        {
+            "dates": 50
+        },
+        {
+            "coffee": 27
+        },
+        {
+            "eatout": 62
+        },
+        {
+            "unexpected": 360
+        },
+        {
+            "personal": 138
+        }
+    ],
     "February2020": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 830
+            "bills": 830
         },
         {
-            "Food": 297
+            "food": 297
         },
         {
-            "Home": 91
+            "home": 91
         },
         {
-            "Gas": 20
+            "gas": 20
         },
         {
-            "Give": 105
+            "give": 105
         },
         {
-            "Transport": 191
+            "transport": 191
         },
         {
-            "Counselling": 30
+            "counselling": 30
         },
         {
-            "Coffee": 3
+            "coffee": 3
         },
         {
-            "Eatout": 12
+            "eatout": 12
         },
         {
-            "Unexpected": 480
+            "unexpected": 480
         },
         {
-            "Personal": 239
+            "personal": 239
         },
         {
-            "School": 70
+            "school": 70
         },
         {
             "spotify": 10
@@ -401,121 +480,45 @@
             "utilities": 56
         }
     ],
-    "January2019": [
+    "January2021": [
         {
-            "rent": 0
+            "rent": 543
         },
         {
-            "bills": 580
+            "bills": 661
         },
         {
-            "food": 290
+            "food": 291
         },
         {
-            "home": 315
+            "home": 186
         },
         {
-            "Gas": 151
+            "gas": 1
         },
         {
-            "insurance": 121
+            "give": 42
         },
         {
-            "Tattoo": 0
+            "transport": 140
         },
         {
-            "counseling": 0
+            "tattoo": 1
         },
         {
-            "coffee": 22
+            "coffee": 1
         },
         {
-            "eatout": 13
+            "eatout": 44
         },
         {
-            "Unexpected": 169
+            "unexpected": 1
         },
         {
-            "Personal": 215
+            "personal": 92
         },
         {
-            "cashapp": 1
-        }
-    ],
-    "February2019": [
-        {
-            "rent": 0
-        },
-        {
-            "bills": 711
-        },
-        {
-            "food": 194
-        },
-        {
-            "home": 49
-        },
-        {
-            "Gas": 189
-        },
-        {
-            "insurance": 120
-        },
-        {
-            "Tattoo": 0
-        },
-        {
-            "dates": 50
-        },
-        {
-            "coffee": 27
-        },
-        {
-            "eatout": 62
-        },
-        {
-            "Unexpected": 360
-        },
-        {
-            "Personal": 138
-        }
-    ],
-    "July2020": [
-        {
-            "Rent": 530
-        },
-        {
-            "Bills": 794
-        },
-        {
-            "Food": 275
-        },
-        {
-            "Home": 245
-        },
-        {
-            "Gas": 18
-        },
-        {
-            "Transport": 71
-        },
-        {
-            "Counselling": 1
-        },
-        {
-            "Coffee": 20
-        },
-        {
-            "Eatout": 73
-        },
-        {
-            "Unexpected": 1
-        },
-        {
-            "Personal": 159
-        },
-        {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -524,7 +527,7 @@
             "chase": 0
         },
         {
-            "coach": 150
+            "save": 0
         },
         {
             "phone": 54
@@ -533,10 +536,10 @@
             "mohela": 208
         },
         {
-            "insurance": 193
+            "insurance": 199
         },
         {
-            "nyt": 4
+            "netflix": 0
         },
         {
             "car": 125
@@ -545,45 +548,45 @@
             "save": 0
         },
         {
-            "utilities": 50
+            "utilities": 65
         }
     ],
     "July2019": [
         {
-            "Rent": 264
+            "rent": 264
         },
         {
-            "Bills": 846
+            "bills": 846
         },
         {
-            "Food": 319
+            "food": 319
         },
         {
-            "Home": 31
+            "home": 31
         },
         {
-            "Gas": 48
+            "gas": 48
         },
         {
-            "Give": 37
+            "give": 37
         },
         {
-            "Transport": 129
+            "transport": 129
         },
         {
-            "Tattoo": 1
+            "tattoo": 1
         },
         {
-            "Coffee": 10
+            "coffee": 10
         },
         {
-            "Eatout": 24
+            "eatout": 24
         },
         {
-            "Unexpected": 57
+            "unexpected": 57
         },
         {
-            "Personal": 207
+            "personal": 207
         },
         {
             "spotify": 10
@@ -616,45 +619,42 @@
             "interest": 0
         }
     ],
-    "January2021": [
+    "July2020": [
         {
-            "Rent": 543
+            "rent": 530
         },
         {
-            "Bills": 661
+            "bills": 794
         },
         {
-            "Food": 291
+            "food": 275
         },
         {
-            "Home": 186
+            "home": 245
         },
         {
-            "Gas": 1
+            "gas": 18
         },
         {
-            "Give": 42
+            "transport": 71
         },
         {
-            "Transport": 140
+            "counselling": 1
         },
         {
-            "Tattoo": 1
+            "coffee": 20
         },
         {
-            "Coffee": 1
+            "eatout": 73
         },
         {
-            "Eatout": 44
+            "unexpected": 1
         },
         {
-            "Unexpected": 1
+            "personal": 159
         },
         {
-            "Personal": 92
-        },
-        {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -663,7 +663,7 @@
             "chase": 0
         },
         {
-            "Save": 0
+            "coach": 150
         },
         {
             "phone": 54
@@ -672,10 +672,10 @@
             "mohela": 208
         },
         {
-            "insurance": 199
+            "insurance": 193
         },
         {
-            "netflix": 0
+            "nyt": 4
         },
         {
             "car": 125
@@ -684,48 +684,48 @@
             "save": 0
         },
         {
-            "utilities": 65
+            "utilities": 50
         }
     ],
     "January2020": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 860
+            "bills": 860
         },
         {
-            "Food": 324
+            "food": 324
         },
         {
-            "Home": 572
+            "home": 572
         },
         {
-            "Gas": 35
+            "gas": 35
         },
         {
-            "Give": 28
+            "give": 28
         },
         {
-            "Transport": 223
+            "transport": 223
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Coffee": 20
+            "coffee": 20
         },
         {
-            "Eatout": 67
+            "eatout": 67
         },
         {
-            "Unexpected": 234
+            "unexpected": 234
         },
         {
-            "Personal": 317
+            "personal": 317
         },
         {
-            "School": 518
+            "school": 518
         },
         {
             "spotify": 10
@@ -755,42 +755,107 @@
             "utilities": 64
         }
     ],
+    "March2019": [
+        {
+            "rent": 100
+        },
+        {
+            "bills": 900
+        },
+        {
+            "food": 278
+        },
+        {
+            "home": 73
+        },
+        {
+            "gas": 136
+        },
+        {
+            "give": 11
+        },
+        {
+            "transport": 44
+        },
+        {
+            "dates": 0
+        },
+        {
+            "coffee": 7
+        },
+        {
+            "eatout": 36
+        },
+        {
+            "unexpected": 490
+        },
+        {
+            "personal": 265
+        },
+        {
+            "amazon": 6
+        },
+        {
+            "spotify": 11
+        },
+        {
+            "chase": 31
+        },
+        {
+            "cap1": 243
+        },
+        {
+            "phone": 99
+        },
+        {
+            "gym": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "car": 125
+        }
+    ],
     "June2019": [
         {
-            "Rent": 400
+            "rent": 400
         },
         {
-            "Bills": 616
+            "bills": 616
         },
         {
-            "Food": 214
+            "food": 214
         },
         {
-            "Home": 66
+            "home": 66
         },
         {
-            "Gas": 115
+            "gas": 115
         },
         {
-            "Give": 23
+            "give": 23
         },
         {
-            "Transport": 12
+            "transport": 12
         },
         {
-            "Dates": 78
+            "dates": 78
         },
         {
-            "Coffee": 1
+            "coffee": 1
         },
         {
-            "Eatout": 47
+            "eatout": 47
         },
         {
-            "Unexpected": 3
+            "unexpected": 3
         },
         {
-            "Personal": 126
+            "personal": 126
         },
         {
             "spotify": 10
@@ -825,43 +890,43 @@
     ],
     "June2020": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 768
+            "bills": 768
         },
         {
-            "Food": 299
+            "food": 299
         },
         {
-            "Home": 316
+            "home": 316
         },
         {
-            "Gas": 145
+            "gas": 145
         },
         {
-            "Give": 64
+            "give": 64
         },
         {
-            "Transport": 9
+            "transport": 9
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Coffee": 9
+            "coffee": 9
         },
         {
-            "Eatout": 28
+            "eatout": 28
         },
         {
-            "Unexpected": 1
+            "unexpected": 1
         },
         {
-            "Personal": 73
+            "personal": 73
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -894,178 +959,45 @@
             "utilities": 58
         }
     ],
-    "March2019": [
-        {
-            "Rent": 100
-        },
-        {
-            "Bills": 900
-        },
-        {
-            "Food": 278
-        },
-        {
-            "Home": 73
-        },
-        {
-            "Gas": 136
-        },
-        {
-            "Give": 11
-        },
-        {
-            "Transport": 44
-        },
-        {
-            "Dates": 0
-        },
-        {
-            "Coffee": 7
-        },
-        {
-            "Eatout": 36
-        },
-        {
-            "Unexpected": 490
-        },
-        {
-            "Personal": 265
-        },
-        {
-            "amazon": 6
-        },
-        {
-            "spotify": 11
-        },
-        {
-            "chase": 31
-        },
-        {
-            "cap1": 243
-        },
-        {
-            "phone": 99
-        },
-        {
-            "gym": 59
-        },
-        {
-            "mohela": 211
-        },
-        {
-            "insurance": 121
-        },
-        {
-            "car": 125
-        }
-    ],
-    "May2019": [
-        {
-            "Rent": 0
-        },
-        {
-            "Bills": 1312
-        },
-        {
-            "Food": 388
-        },
-        {
-            "Home": 72
-        },
-        {
-            "Gas": 165
-        },
-        {
-            "Give": 48
-        },
-        {
-            "Transport": 38
-        },
-        {
-            "Dates": 256
-        },
-        {
-            "Coffee": 38
-        },
-        {
-            "Eatout": 49
-        },
-        {
-            "Unexpected": 59
-        },
-        {
-            "Personal": 221
-        },
-        {
-            "spotify": 10
-        },
-        {
-            "chase": 180
-        },
-        {
-            "cap1": 216
-        },
-        {
-            "phone": 96
-        },
-        {
-            "gym": 59
-        },
-        {
-            "mohela": 211
-        },
-        {
-            "insurance": 121
-        },
-        {
-            "headspace": 13
-        },
-        {
-            "car": 125
-        },
-        {
-            "interest": 291
-        }
-    ],
     "March2020": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 646
+            "bills": 646
         },
         {
-            "Food": 308
+            "food": 308
         },
         {
-            "Home": 127
+            "home": 127
         },
         {
-            "Gas": 81
+            "gas": 81
         },
         {
-            "Give": 31
+            "give": 31
         },
         {
-            "Transport": 100
+            "transport": 100
         },
         {
-            "Counselling": 30
+            "counselling": 30
         },
         {
-            "Coffee": 2
+            "coffee": 2
         },
         {
-            "Eatout": 56
+            "eatout": 56
         },
         {
-            "Unexpected": 30
+            "unexpected": 30
         },
         {
-            "Personal": 67
+            "personal": 67
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -1097,43 +1029,43 @@
     ],
     "May2020": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 680
+            "bills": 680
         },
         {
-            "Food": 286
+            "food": 286
         },
         {
-            "Home": 60
+            "home": 60
         },
         {
-            "Gas": 86
+            "gas": 86
         },
         {
-            "Give": 1
+            "give": 1
         },
         {
-            "Transport": 1
+            "transport": 1
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Coffee": 1
+            "coffee": 1
         },
         {
-            "Eatout": 3
+            "eatout": 3
         },
         {
-            "Unexpected": 1
+            "unexpected": 1
         },
         {
-            "Personal": 6
+            "personal": 6
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -1166,42 +1098,110 @@
             "utilities": 40
         }
     ],
+    "May2019": [
+        {
+            "rent": 0
+        },
+        {
+            "bills": 1312
+        },
+        {
+            "food": 388
+        },
+        {
+            "home": 72
+        },
+        {
+            "gas": 165
+        },
+        {
+            "give": 48
+        },
+        {
+            "transport": 38
+        },
+        {
+            "dates": 256
+        },
+        {
+            "coffee": 38
+        },
+        {
+            "eatout": 49
+        },
+        {
+            "unexpected": 59
+        },
+        {
+            "personal": 221
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 180
+        },
+        {
+            "cap1": 216
+        },
+        {
+            "phone": 96
+        },
+        {
+            "gym": 59
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 121
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "interest": 291
+        }
+    ],
     "November2019": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 1267
+            "bills": 1267
         },
         {
-            "Food": 360
+            "food": 360
         },
         {
-            "Home": 36
+            "home": 36
         },
         {
-            "Gas": 268
+            "gas": 268
         },
         {
-            "Give": 50
+            "give": 50
         },
         {
-            "Transport": 11
+            "transport": 11
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Coffee": 16
+            "coffee": 16
         },
         {
-            "Eatout": 22
+            "eatout": 22
         },
         {
-            "Unexpected": 159
+            "unexpected": 159
         },
         {
-            "Personal": 402
+            "personal": 402
         },
         {
             "spotify": 10
@@ -1233,43 +1233,43 @@
     ],
     "November2020": [
         {
-            "Rent": 543
+            "rent": 543
         },
         {
-            "Bills": 652
+            "bills": 652
         },
         {
-            "Food": 330
+            "food": 330
         },
         {
-            "Home": 134
+            "home": 134
         },
         {
-            "Gas": 1
+            "gas": 1
         },
         {
-            "Give": 201
+            "give": 201
         },
         {
-            "Transport": 100
+            "transport": 100
         },
         {
-            "Dates": 4
+            "dates": 4
         },
         {
-            "Coffee": 4
+            "coffee": 4
         },
         {
-            "Eatout": 5
+            "eatout": 5
         },
         {
-            "Unexpected": 60
+            "unexpected": 60
         },
         {
-            "Personal": 159
+            "personal": 159
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -1278,7 +1278,7 @@
             "chase": 0
         },
         {
-            "Save": 0
+            "save": 0
         },
         {
             "phone": 54
@@ -1302,42 +1302,107 @@
             "utilities": 53
         }
     ],
+    "September2019": [
+        {
+            "rent": 500
+        },
+        {
+            "bills": 739
+        },
+        {
+            "food": 286
+        },
+        {
+            "home": 293
+        },
+        {
+            "gas": 196
+        },
+        {
+            "give": 15
+        },
+        {
+            "transport": 34
+        },
+        {
+            "counselling": 1
+        },
+        {
+            "coffee": 24
+        },
+        {
+            "eatout": 45
+        },
+        {
+            "unexpected": 119
+        },
+        {
+            "personal": 132
+        },
+        {
+            "spotify": 10
+        },
+        {
+            "chase": 35
+        },
+        {
+            "cap1": 201
+        },
+        {
+            "phone": 43
+        },
+        {
+            "mohela": 211
+        },
+        {
+            "insurance": 111
+        },
+        {
+            "headspace": 13
+        },
+        {
+            "car": 125
+        },
+        {
+            "utilities": 40
+        }
+    ],
     "October2019": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 753
+            "bills": 753
         },
         {
-            "Food": 334
+            "food": 334
         },
         {
-            "Home": 329
+            "home": 329
         },
         {
-            "Gas": 136
+            "gas": 136
         },
         {
-            "Give": 15
+            "give": 15
         },
         {
-            "Transport": 23
+            "transport": 23
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Coffee": 1
+            "coffee": 1
         },
         {
-            "Eatout": 37
+            "eatout": 37
         },
         {
-            "Unexpected": 1
+            "unexpected": 1
         },
         {
-            "Personal": 210
+            "personal": 210
         },
         {
             "spotify": 10
@@ -1369,43 +1434,43 @@
     ],
     "October2020": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 644
+            "bills": 644
         },
         {
-            "Food": 266
+            "food": 266
         },
         {
-            "Home": 182
+            "home": 182
         },
         {
-            "Gas": 97
+            "gas": 97
         },
         {
-            "Give": 105
+            "give": 105
         },
         {
-            "Transport": 153
+            "transport": 153
         },
         {
-            "Dates": 58
+            "dates": 58
         },
         {
-            "Coffee": 15
+            "coffee": 15
         },
         {
-            "Eatout": 60
+            "eatout": 60
         },
         {
-            "Unexpected": 916
+            "unexpected": 916
         },
         {
-            "Personal": 136
+            "personal": 136
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -1414,7 +1479,7 @@
             "chase": 0
         },
         {
-            "Piano": 0
+            "piano": 0
         },
         {
             "phone": 54
@@ -1438,71 +1503,6 @@
             "utilities": 50
         }
     ],
-    "September2019": [
-        {
-            "Rent": 500
-        },
-        {
-            "Bills": 739
-        },
-        {
-            "Food": 286
-        },
-        {
-            "Home": 293
-        },
-        {
-            "Gas": 196
-        },
-        {
-            "Give": 15
-        },
-        {
-            "Transport": 34
-        },
-        {
-            "Counselling": 1
-        },
-        {
-            "Coffee": 24
-        },
-        {
-            "Eatout": 45
-        },
-        {
-            "Unexpected": 119
-        },
-        {
-            "Personal": 132
-        },
-        {
-            "spotify": 10
-        },
-        {
-            "chase": 35
-        },
-        {
-            "cap1": 201
-        },
-        {
-            "phone": 43
-        },
-        {
-            "mohela": 211
-        },
-        {
-            "insurance": 111
-        },
-        {
-            "headspace": 13
-        },
-        {
-            "car": 125
-        },
-        {
-            "utilities": 40
-        }
-    ],
     "november2017": [
         {
             "rent": 285
@@ -1517,13 +1517,13 @@
             "home": 0
         },
         {
-            "Gas": 43
+            "gas": 43
         },
         {
-            "Insurance": 70
+            "insurance": 70
         },
         {
-            "Tattoo": 0
+            "tattoo": 0
         },
         {
             "counseling": 0
@@ -1535,51 +1535,51 @@
             "eatout": 33
         },
         {
-            "Unexpected": 82
+            "unexpected": 82
         },
         {
-            "Personal": 335
+            "personal": 335
         }
     ],
     "September2020": [
         {
-            "Rent": 530
+            "rent": 530
         },
         {
-            "Bills": 644
+            "bills": 644
         },
         {
-            "Food": 229
+            "food": 229
         },
         {
-            "Home": 160
+            "home": 160
         },
         {
-            "Gas": 1
+            "gas": 1
         },
         {
-            "Give": 1
+            "give": 1
         },
         {
-            "Transport": 95
+            "transport": 95
         },
         {
-            "Counselling": 1
+            "counselling": 1
         },
         {
-            "Coffee": 18
+            "coffee": 18
         },
         {
-            "Eatout": 16
+            "eatout": 16
         },
         {
-            "Unexpected": 1
+            "unexpected": 1
         },
         {
-            "Personal": 24
+            "personal": 24
         },
         {
-            "School": 1
+            "school": 1
         },
         {
             "spotify": 10
@@ -1588,7 +1588,7 @@
             "chase": 0
         },
         {
-            "Piano": 0
+            "piano": 0
         },
         {
             "phone": 54
